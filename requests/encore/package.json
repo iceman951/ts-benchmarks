@@ -5,10 +5,10 @@
   "license": "MIT",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^20.5.7",
-    "typescript": "^5.2.2"
+    "@types/node": "^22.14.0",
+    "typescript": "^5.8.3"
   },
   "dependencies": {
-    "encore.dev": "^1.38.0"
+    "encore.dev": "^1.46.16"
   }
 }
